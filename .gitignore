@@ -1,0 +1,15 @@
+__pycache__
+*.py[cod]
+*$py.class
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.vscode
+doc/source/apidocs

@@ -112,4 +112,5 @@ epub_exclude_files = ['search.html']
 
 # -- Extension configuration -------------------------------------------------
 autosummary_generate = True
+autosummary_recursion_limit = -1
 autodoc_default_flags = ['members', 'undoc-members', 'show-inheritance', 'imported_members']
